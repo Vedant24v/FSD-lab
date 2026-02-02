@@ -1,5 +1,3 @@
-# PRODIGY_WD_3
-
 ### 🕹️ Neon Tic-Tac-Toe Arena
 
 This is the finalized, high-performance **Cyberpunk-themed** Tic-Tac-Toe application. The game features advanced state management, smart AI logic, and a dynamic scoring system, developed by **Vedant Vyawhare**.
@@ -9,8 +7,7 @@ This is the finalized, high-performance **Cyberpunk-themed** Tic-Tac-Toe applica
 ## 👨‍💻 Developer Information
 
 * **Name:** Vedant Vyawhare
-* **Role:** Web Development Intern
-* **Project:** Task-03: Tic-Tac-Toe Web Game
+* **Project:** Tic-Tac-Toe Web Game
 
 ---
 
@@ -41,9 +38,7 @@ This is the finalized, high-performance **Cyberpunk-themed** Tic-Tac-Toe applica
 
 ```
 
----
-
 ## 📜 License
 
-Developed for the Prodigy Infotech internship program. All rights reserved © 2025 Vedant Vyawhare.
+All rights reserved © 2025 Vedant Vyawhare.
 
